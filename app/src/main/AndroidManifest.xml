@@ -15,8 +15,6 @@
             <category android:name="android.intent.category.LAUNCHER"/>
         </intent-filter>
     </activity>
-    <activity android:name="com.example.compositor_view_hack.TargetActivity">
-    </activity>
 </application>
 
 </manifest>
